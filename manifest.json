@@ -61,5 +61,5 @@
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     }
   ],
-  "signature": "oYZSKgVHEDyhZB7HKAr+bnXMmgb4R0dHFXxtjSqpOLUYZsz/U3+QWfbvd7qIx9228wUWAj+kk8KZ0zyh39ocCA==%"
+  "signature": "oYZSKgVHEDyhZB7HKAr+bnXMmgb4R0dHFXxtjSqpOLUYZsz/U3+QWfbvd7qIx9228wUWAj+kk8KZ0zyh39ocCA=="
 }
