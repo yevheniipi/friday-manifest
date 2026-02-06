@@ -8,7 +8,7 @@
       "speed": "9/10",
       "accuracy": "6/10",
       "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-small-q5_1.bin?download=true",
-      "sha256": "6fe57ddcfdd1c6b07cdcc73aaf620810ce5fc771",
+      "sha256": "ae85e4a935d7a567bd102fe55afc16bb595bdb618e11b2fc7591bc08120411bb",
       "language": "auto",
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     },
@@ -20,7 +20,7 @@
       "speed": "8/10",
       "accuracy": "7/10",
       "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-small-q8_0.bin?download=true",
-      "sha256": "bcad8a2083f4e53d648d586b7dbc0cd673d8afad",
+      "sha256": "49c8fb02b65e6049d5fa6c04f81f53b867b5ec9540406812c643f177317f779f",
       "language": "auto",
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     },
@@ -32,7 +32,7 @@
       "speed": "7/10",
       "accuracy": "8/10",
       "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-medium-q5_0.bin?download=true",
-      "sha256": "7718d4c1ec62ca96998f058114db98236937490e",
+      "sha256": "19fea4b380c3a618ec4723c3eef2eb785ffba0d0538cf43f8f235e7b3b34220f",
       "language": "auto",
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     },
@@ -44,7 +44,7 @@
       "speed": "6/10",
       "accuracy": "9/10",
       "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-medium-q8_0.bin?download=true",
-      "sha256": "e66645948aff4bebbec71b3485c576f3d63af5d6",
+      "sha256": "42a1ffcbe4167d224232443396968db4d02d4e8e87e213d3ee2e03095dea6502",
       "language": "auto",
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     },
@@ -56,10 +56,10 @@
       "speed": "5/10",
       "accuracy": "9/10",
       "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-large-v3-turbo-q5_0.bin?download=true",
-      "sha256": "e050f7970618a659205450ad97eb95a18d69c9ee",
+      "sha256": "394221709cd5ad1f40c46e6031ca61bce88931e6e088c188294c6d5a55ffa7e2",
       "language": "auto",
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     }
   ],
-  "signature": "qNK9GqOGL5Jx82krf9SwD0xsJ1EchwidBtbzt8V1kjcExiiNI3+qqBL/hNgZ3BdLD2qh0a4LHtNMDBS3/f5VAw=="
+  "signature": "D+SCyq7L4D7Z+h1COQeneow0/55tPDY1OEwLOFyAYOagLDfFZO8kAqsN+WQoxNZ+v/pm+ra3g7BZkajZCD9ICQ=="
 }
