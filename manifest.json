@@ -7,8 +7,8 @@
       "sizeBytes": 190085487,
       "speed": "9/10",
       "accuracy": "6/10",
-      "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small-q5_1.bin?download=true",
-      "sha256": "ae859490188b474ac94636f41c165d79c3cc9a9b4b753fdc525480476446d340",
+      "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-small-q5_1.bin?download=true",
+      "sha256": "6fe57ddcfdd1c6b07cdcc73aaf620810ce5fc771",
       "language": "auto",
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     },
@@ -19,8 +19,8 @@
       "sizeBytes": 264464607,
       "speed": "8/10",
       "accuracy": "7/10",
-      "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small-q8_0.bin?download=true",
-      "sha256": "49c864cb907a6db862c0ff430c1fb53c8c14a122893de258c419d0eac228dec0",
+      "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-small-q8_0.bin?download=true",
+      "sha256": "bcad8a2083f4e53d648d586b7dbc0cd673d8afad",
       "language": "auto",
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     },
@@ -31,8 +31,8 @@
       "sizeBytes": 539212467,
       "speed": "7/10",
       "accuracy": "8/10",
-      "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-medium-q5_0.bin?download=true",
-      "sha256": "19fea4c5d4d8c2e7f142c5229b28b161e16310f0949e8327ad9b6a252de5c98b",
+      "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-medium-q5_0.bin?download=true",
+      "sha256": "7718d4c1ec62ca96998f058114db98236937490e",
       "language": "auto",
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     },
@@ -43,8 +43,8 @@
       "sizeBytes": 823369779,
       "speed": "6/10",
       "accuracy": "9/10",
-      "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-medium-q8_0.bin?download=true",
-      "sha256": "42a1a3ff57b5d225a78ebc6bd8ae5635264a776ba35cee09e637a4fa64e92651",
+      "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-medium-q8_0.bin?download=true",
+      "sha256": "e66645948aff4bebbec71b3485c576f3d63af5d6",
       "language": "auto",
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     },
@@ -55,11 +55,11 @@
       "sizeBytes": 574041195,
       "speed": "5/10",
       "accuracy": "9/10",
-      "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3-turbo-q5_0.bin?download=true",
-      "sha256": "394221709cd5ad1f40c46e6031ca61bce88931e6e088c188294c6d5a55ffa7e2",
+      "downloadURL": "https://huggingface.co/ggerganov/whisper.cpp/resolve/5359861c739e955e79d9a303bcbc70fb988958b1/ggml-large-v3-turbo-q5_0.bin?download=true",
+      "sha256": "e050f7970618a659205450ad97eb95a18d69c9ee",
       "language": "auto",
       "audio": { "sampleRateHz": 16000, "channels": 1, "encoding": "pcm_s16le", "container": "wav" }
     }
   ],
-  "signature": "uoG5L99i+BiAIVJAGIpDH+5bk/2XBo/BD0KUY7d+hoHYFCN7ir+AO4vXSU6ZmsnNKxrY3rTE7Xx28KyJGb7oCw=="
+  "signature": "qNK9GqOGL5Jx82krf9SwD0xsJ1EchwidBtbzt8V1kjcExiiNI3+qqBL/hNgZ3BdLD2qh0a4LHtNMDBS3/f5VAw=="
 }
